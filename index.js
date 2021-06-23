@@ -1,3 +1,3 @@
 function findMatching(drivers){ 
-return drivers.filter(str => str === ["Bobby"], ["Sammy"] )
+return drivers.filter(str => str === ["Bobby"] )
 }
